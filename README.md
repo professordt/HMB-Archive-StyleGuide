@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # HMB-Archive-StyleGuide
 Hamboning Media LLC Style Guide for Assets and Archives
 =======
-# Hamboning Media Archive Style Guide
 
 Welcome to the Hamboning Media Archive Style Guide repository! This guide outlines the structure, naming conventions, and best practices for organizing and naming digital assets within the Hamboning Media Archive system.
 
