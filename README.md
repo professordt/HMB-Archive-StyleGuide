@@ -8,9 +8,9 @@ This guide is meant to be used by the Hamboning Media team, collaborators, and a
 ## Structure:
 - **Naming Conventions**
 - **Folder Structure**
-- **Branding Guidelines**
 - **Backup Strategy**
-- **MIDOT Integration**
+
+This represents a work-in-progress company wide structure as we catalog and prepare our digital assets. For branding style guidelines, please see the Notion pages. 
 
 Start by reviewing the [Naming Conventions](NamingConventions.md) to align all your files with the archive's organizational system.
 
